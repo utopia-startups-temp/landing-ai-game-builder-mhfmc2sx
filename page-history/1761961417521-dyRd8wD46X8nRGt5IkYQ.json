@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "branding": {
+    "name": "ai game builder",
+    "tone": "friendly"
+  },
+  "sections": [
+    {
+      "type": "hero",
+      "headline": "Create Your Dream Game Instantly",
+      "subheadline": "Turn ideas into playable games with just a few clicks.",
+      "cta": {
+        "label": "Start Building Now",
+        "href": "https://utopia.so/projects/dyRd8wD46X8nRGt5IkYQ"
+      },
+      "id": "hero-1"
+    },
+    {
+      "type": "problem",
+      "headline": "Game Development Made Simple",
+      "bullets": [
+        "Say goodbye to coding and design complexities.",
+        "Overcome the challenge of transforming ideas into mechanics.",
+        "Skip the hassle of asset creation and integration."
+      ],
+      "id": "problem-2"
+    },
+    {
+      "type": "solution",
+      "headline": "AI-Powered Game Creation",
+      "bullets": [
+        "Generates games from your ideas - no coding needed.",
+        "Automates graphics, mechanics, and level design.",
+        "Export to popular engines like Unity & Godot effortlessly."
+      ],
+      "id": "solution-3"
+    },
+    {
+      "type": "benefits",
+      "headline": "Why Choose ai game builder?",
+      "items": [
+        {
+          "title": "Rapid Prototyping",
+          "description": "From concept to playable game in less time."
+        },
+        {
+          "title": "Inclusive Design",
+          "description": "For developers, hobbyists, and educators of all skill levels."
+        },
+        {
+          "title": "Customizable & Flexible",
+          "description": "Fine-tune your game with intuitive controls and AI suggestions."
+        }
+      ],
+      "id": "benefits-4"
+    },
+    {
+      "type": "features",
+      "headline": "Features at a Glance",
+      "items": [
+        {
+          "title": "Intuitive Interface",
+          "description": "Easily navigate through the game creation process."
+        },
+        {
+          "title": "Advanced AI",
+          "description": "Smart algorithms that understand your vision."
+        },
+        {
+          "title": "Export & Share",
+          "description": "Seamlessly export games and share with a global community."
+        }
+      ],
+      "id": "features-5"
+    },
+    {
+      "type": "cta",
+      "headline": "Ready to Bring Your Game to Life?",
+      "cta": {
+        "label": "Start Your Free Trial",
+        "href": "https://utopia.so/projects/dyRd8wD46X8nRGt5IkYQ"
+      },
+      "id": "cta-6"
+    }
+  ],
+  "goal": "lead-collection"
+}
